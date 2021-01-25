@@ -16,7 +16,13 @@ Clone or download this repository (link in the section below) to your local mach
 Run the application on the emulator
 
 ## BDD
-Run the app tap on any country to get daily statistics and realtime cumulative covid19 data.
+Run the app 
+
+Create an accont if its your first time logging in.
+
+Log in if you already have an account
+
+Tap on any country to get daily statistics and realtime cumulative covid19 data.
 
 Search for data of a specific country on the search button
 
